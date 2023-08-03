@@ -11,7 +11,7 @@ import torch
 
 MATPLOTLIB_FLAG = False
 
-logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
+logging.basicConfig(stream=sys.stdout, level=logging.INFO)
 logger = logging
 
 
@@ -43,7 +43,7 @@ def load_checkpoint(checkpoint_path, model, optimizer=None):
   return model, optimizer, learning_rate, iteration
 
 
-def save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path):
+def save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path, eval_interval, model_dir):
   logger.info("Saving model and optimizer state at iteration {} to {}".format(
     iteration, checkpoint_path))
   if hasattr(model, 'module'):
@@ -54,7 +54,19 @@ def save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path)
               'iteration': iteration,
               'optimizer': optimizer.state_dict(),
               'learning_rate': learning_rate}, checkpoint_path)
+              
+  clean_checkpoints(iteration, eval_interval, model_dir)
 
+
+def clean_checkpoints(iteration, eval_interval, ckpt_dir):
+    if iteration > 0:
+        last_checkpoint = iteration - (eval_interval * 2)
+        try:
+            os.remove(os.path.join(ckpt_dir, "G_{}.pth".format(last_checkpoint)))
+            os.remove(os.path.join(ckpt_dir, "D_{}.pth".format(last_checkpoint)))
+            print(f"Removed old checkpoints G_{last_checkpoint}.pth and D_{last_checkpoint}.pth")
+        except OSError:
+            pass
 
 def summarize(writer, global_step, scalars={}, histograms={}, images={}, audios={}, audio_sampling_rate=22050):
   for k, v in scalars.items():
@@ -149,7 +161,7 @@ def get_hparams(init=True):
                       help='Model name')
   
   args = parser.parse_args()
-  model_dir = os.path.join(args.model)
+  model_dir = os.path.join("./logs", args.model)
 
   if not os.path.exists(model_dir):
     os.makedirs(model_dir)
