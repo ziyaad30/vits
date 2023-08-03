@@ -33,6 +33,8 @@ from losses import (
 from mel_processing import mel_spectrogram_torch, spec_to_mel_torch
 from text.symbols import symbols
 
+import warnings
+warnings.simplefilter("ignore", UserWarning)
 
 torch.backends.cudnn.benchmark = True
 global_step = 0
@@ -59,7 +61,7 @@ def run(rank, n_gpus, hps):
     writer = SummaryWriter(log_dir=hps.model_dir)
     writer_eval = SummaryWriter(log_dir=os.path.join(hps.model_dir, "eval"))
 
-  dist.init_process_group(backend='nccl', init_method='env://', world_size=n_gpus, rank=rank)
+  dist.init_process_group(backend='gloo', init_method='env://', world_size=n_gpus, rank=rank)
   torch.manual_seed(hps.train.seed)
   torch.cuda.set_device(rank)
 
@@ -72,12 +74,12 @@ def run(rank, n_gpus, hps):
       rank=rank,
       shuffle=True)
   collate_fn = TextAudioCollate()
-  train_loader = DataLoader(train_dataset, num_workers=8, shuffle=False, pin_memory=True,
+  train_loader = DataLoader(train_dataset, num_workers=0, shuffle=False, pin_memory=False,
       collate_fn=collate_fn, batch_sampler=train_sampler)
   if rank == 0:
     eval_dataset = TextAudioLoader(hps.data.validation_files, hps.data)
-    eval_loader = DataLoader(eval_dataset, num_workers=8, shuffle=False,
-        batch_size=hps.train.batch_size, pin_memory=True,
+    eval_loader = DataLoader(eval_dataset, num_workers=0, shuffle=False,
+        batch_size=hps.train.batch_size, pin_memory=False,
         drop_last=False, collate_fn=collate_fn)
 
   net_g = SynthesizerTrn(
@@ -222,20 +224,8 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
 
       if global_step % hps.train.eval_interval == 0:
         evaluate(hps, net_g, eval_loader, writer_eval)
-        utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "G_{}.pth".format(global_step)))
-        utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "D_{}.pth".format(global_step)))
-        
-        last_checkpoint = global_step - (hps.train.eval_interval * 2)
-        
-        if last_checkpoint:
-          logger.info('Checking old checkpoints...')
-          try:
-            os.remove(os.path.join(hps.model_dir, "G_{}.pth".format(last_checkpoint)))
-            os.remove(os.path.join(hps.model_dir, "D_{}.pth".format(last_checkpoint)))
-            logger.info('Old checkpoints removed.')
-          except OSError:
-            pass
-          
+        utils.save_checkpoint(net_g, optim_g, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "G_{}.pth".format(global_step)), hps.train.eval_interval, hps.model_dir)
+        utils.save_checkpoint(net_d, optim_d, hps.train.learning_rate, epoch, os.path.join(hps.model_dir, "D_{}.pth".format(global_step)), hps.train.eval_interval, hps.model_dir)
     global_step += 1
   
   if rank == 0:
