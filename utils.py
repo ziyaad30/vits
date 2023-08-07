@@ -43,8 +43,8 @@ def load_checkpoint(checkpoint_path, model, optimizer=None):
   return model, optimizer, learning_rate, iteration
 
 
-def save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path, eval_interval, model_dir):
-  logger.info("Saving model and optimizer state at iteration {} to {}".format(
+def save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path, step, eval_interval, model_dir):
+  print("Saving model and optimizer state at iteration {} to {}".format(
     iteration, checkpoint_path))
   if hasattr(model, 'module'):
     state_dict = model.module.state_dict()
@@ -55,12 +55,12 @@ def save_checkpoint(model, optimizer, learning_rate, iteration, checkpoint_path,
               'optimizer': optimizer.state_dict(),
               'learning_rate': learning_rate}, checkpoint_path)
               
-  clean_checkpoints(iteration, eval_interval, model_dir)
+  clean_checkpoints(step, eval_interval, model_dir)
 
 
-def clean_checkpoints(iteration, eval_interval, ckpt_dir):
-    if iteration > 0:
-        last_checkpoint = iteration - (eval_interval * 2)
+def clean_checkpoints(step, eval_interval, ckpt_dir):
+    if step > 0:
+        last_checkpoint = step - (eval_interval * 2)
         try:
             os.remove(os.path.join(ckpt_dir, "G_{}.pth".format(last_checkpoint)))
             os.remove(os.path.join(ckpt_dir, "D_{}.pth".format(last_checkpoint)))
