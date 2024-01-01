@@ -1,0 +1,100 @@
+../LJSpeech-1.1/wavs/LJ001-0001.wav|printing, in the only sense with which we are at present concerned, differs from most if not from all the arts and crafts represented in the exhibition
+../LJSpeech-1.1/wavs/LJ001-0002.wav|in being comparatively modern.
+../LJSpeech-1.1/wavs/LJ001-0003.wav|for although the chinese took impressions from wood blocks engraved in relief for centuries before the woodcutters of the netherlands, by a similar process
+../LJSpeech-1.1/wavs/LJ001-0004.wav|produced the block books, which were the immediate predecessors of the true printed book,
+../LJSpeech-1.1/wavs/LJ001-0005.wav|the invention of movable metal letters in the middle of the fifteenth century may justly be considered as the invention of the art of printing.
+../LJSpeech-1.1/wavs/LJ001-0006.wav|and it is worth mention in passing that, as an example of fine typography,
+../LJSpeech-1.1/wavs/LJ001-0007.wav|the earliest book printed with movable types, the gutenberg, or "forty two line bible" of about fourteen fifty five,
+../LJSpeech-1.1/wavs/LJ001-0008.wav|has never been surpassed.
+../LJSpeech-1.1/wavs/LJ001-0009.wav|printing, then, for our purpose, may be considered as the art of making books by means of movable types.
+../LJSpeech-1.1/wavs/LJ001-0010.wav|now, as all books not primarily intended as picture books consist principally of types composed to form letterpress,
+../LJSpeech-1.1/wavs/LJ001-0011.wav|it is of the first importance that the letter used should be fine in form;
+../LJSpeech-1.1/wavs/LJ001-0012.wav|especially as no more time is occupied, or cost incurred, in casting, setting, or printing beautiful letters
+../LJSpeech-1.1/wavs/LJ001-0013.wav|than in the same operations with ugly ones.
+../LJSpeech-1.1/wavs/LJ001-0014.wav|and it was a matter of course that in the middle ages, when the craftsmen took care that beautiful form should always be a part of their productions whatever they were,
+../LJSpeech-1.1/wavs/LJ001-0015.wav|the forms of printed letters should be beautiful, and that their arrangement on the page should be reasonable and a help to the shapeliness of the letters themselves.
+../LJSpeech-1.1/wavs/LJ001-0016.wav|the middle ages brought calligraphy to perfection, and it was natural therefore
+../LJSpeech-1.1/wavs/LJ001-0017.wav|that the forms of printed letters should follow more or less closely those of the written character, and they followed them very closely.
+../LJSpeech-1.1/wavs/LJ001-0018.wav|the first books were printed in black letter, i.e. the letter which was a gothic development of the ancient roman character,
+../LJSpeech-1.1/wavs/LJ001-0019.wav|and which developed more completely and satisfactorily on the side of the "lower case" than the capital letters;
+../LJSpeech-1.1/wavs/LJ001-0020.wav|the "lower case" being in fact invented in the early middle ages.
+../LJSpeech-1.1/wavs/LJ001-0021.wav|the earliest book printed with movable type, the aforesaid gutenberg bible, is printed in letters which are an exact imitation
+../LJSpeech-1.1/wavs/LJ001-0022.wav|of the more formal ecclesiastical writing which obtained at that time; this has since been called "missal type,"
+../LJSpeech-1.1/wavs/LJ001-0023.wav|and was in fact the kind of letter used in the many splendid missals, psalters, etc., produced by printing in the fifteenth century.
+../LJSpeech-1.1/wavs/LJ001-0024.wav|but the first bible actually dated (which also was printed at maintz by peter schoeffer in the year fourteen sixty two)
+../LJSpeech-1.1/wavs/LJ001-0025.wav|imitates a much freer hand, simpler, rounder, and less spiky, and therefore far pleasanter and easier to read.
+../LJSpeech-1.1/wavs/LJ001-0026.wav|on the whole the type of this book may be considered the ne plus ultra of gothic type,
+../LJSpeech-1.1/wavs/LJ001-0027.wav|especially as regards the lower case letters; and type very similar was used during the next fifteen or twenty years not only by schoeffer,
+../LJSpeech-1.1/wavs/LJ001-0028.wav|but by printers in strasburg, basle, paris, lubeck, and other cities.
+../LJSpeech-1.1/wavs/LJ001-0029.wav|but though on the whole, except in italy, gothic letter was most often used
+../LJSpeech-1.1/wavs/LJ001-0030.wav|a very few years saw the birth of roman character not only in italy, but in germany and france.
+../LJSpeech-1.1/wavs/LJ001-0031.wav|in fourteen sixty five sweynheim and pannartz began printing in the monastery of subiaco near rome,
+../LJSpeech-1.1/wavs/LJ001-0032.wav|and used an exceedingly beautiful type, which is indeed to look at a transition between gothic and roman,
+../LJSpeech-1.1/wavs/LJ001-0033.wav|but which must certainly have come from the study of the twelfth or even the eleventh century mss.
+../LJSpeech-1.1/wavs/LJ001-0034.wav|they printed very few books in this type, three only; but in their very first books in rome, beginning with the year fourteen sixty eight,
+../LJSpeech-1.1/wavs/LJ001-0035.wav|they discarded this for a more completely roman and far less beautiful letter.
+../LJSpeech-1.1/wavs/LJ001-0036.wav|but about the same year mentelin at strasburg began to print in a type which is distinctly roman;
+../LJSpeech-1.1/wavs/LJ001-0037.wav|and the next year gunther zeiner at augsburg followed suit;
+../LJSpeech-1.1/wavs/LJ001-0038.wav|while in fourteen seventy at paris udalric gering and his associates turned out the first books printed in france, also in roman character.
+../LJSpeech-1.1/wavs/LJ001-0039.wav|the roman type of all these printers is similar in character,
+../LJSpeech-1.1/wavs/LJ001-0040.wav|and is very simple and legible, and unaffectedly designed for use; but it is by no means without beauty.
+../LJSpeech-1.1/wavs/LJ001-0041.wav|it must be said that it is in no way like the transition type of subiaco,
+../LJSpeech-1.1/wavs/LJ001-0042.wav|and though more roman than that, yet scarcely more like the complete roman type of the earliest printers of rome.
+../LJSpeech-1.1/wavs/LJ001-0043.wav|a further development of the roman letter took place at venice.
+../LJSpeech-1.1/wavs/LJ001-0044.wav|john of spires and his brother vindelin, followed by nicholas jenson, began to print in that city,
+../LJSpeech-1.1/wavs/LJ001-0045.wav|fourteen sixty nine, fourteen seventy;
+../LJSpeech-1.1/wavs/LJ001-0046.wav|their type is on the lines of the german and french rather than of the roman printers.
+../LJSpeech-1.1/wavs/LJ001-0047.wav|of jenson it must be said that he carried the development of roman type as far as it can go:
+../LJSpeech-1.1/wavs/LJ001-0048.wav|his letter is admirably clear and regular, but at least as beautiful as any other roman type.
+../LJSpeech-1.1/wavs/LJ001-0049.wav|after his death in the "fourteen eighties," or at least by fourteen ninety, printing in venice had declined very much;
+../LJSpeech-1.1/wavs/LJ001-0050.wav|and though the famous family of aldus restored its technical excellence, rejecting battered letters,
+../LJSpeech-1.1/wavs/LJ001-0051.wav|and paying great attention to the "press work" or actual process of printing,
+../LJSpeech-1.1/wavs/LJ001-0052.wav|yet their type is artistically on a much lower level than jenson's, and in fact
+../LJSpeech-1.1/wavs/LJ001-0053.wav|they must be considered to have ended the age of fine printing in italy.
+../LJSpeech-1.1/wavs/LJ001-0054.wav|jenson, however, had many contemporaries who used beautiful type,
+../LJSpeech-1.1/wavs/LJ001-0055.wav|some of which as, e.g., that of jacobus rubeus or jacques le rouge is scarcely distinguishable from his.
+../LJSpeech-1.1/wavs/LJ001-0056.wav|it was these great venetian printers, together with their brethren of rome, milan,
+../LJSpeech-1.1/wavs/LJ001-0057.wav|parma, and one or two other cities, who produced the splendid editions of the classics, which are one of the great glories of the printer's art,
+../LJSpeech-1.1/wavs/LJ001-0058.wav|and are worthy representatives of the eager enthusiasm for the revived learning of that epoch. by far,
+../LJSpeech-1.1/wavs/LJ001-0059.wav|the greater part of these italian printers, it should be mentioned, were germans or frenchmen, working under the influence of italian opinion and aims.
+../LJSpeech-1.1/wavs/LJ001-0060.wav|it must be understood that through the whole of the fifteenth and the first quarter of the sixteenth centuries
+../LJSpeech-1.1/wavs/LJ001-0061.wav|the roman letter was used side by side with the gothic.
+../LJSpeech-1.1/wavs/LJ001-0062.wav|even in italy most of the theological and law books were printed in gothic letter,
+../LJSpeech-1.1/wavs/LJ001-0063.wav|which was generally more formally gothic than the printing of the german workmen,
+../LJSpeech-1.1/wavs/LJ001-0064.wav|many of whose types, indeed, like that of the subiaco works, are of a transitional character.
+../LJSpeech-1.1/wavs/LJ001-0065.wav|this was notably the case with the early works printed at ulm, and in a somewhat lesser degree at augsburg.
+../LJSpeech-1.1/wavs/LJ001-0066.wav|in fact gunther zeiner's first type (afterwards used by schussler) is remarkably like the type of the before mentioned subiaco books.
+../LJSpeech-1.1/wavs/LJ001-0067.wav|in the low countries and cologne, which were very fertile of printed books, gothic was the favorite.
+../LJSpeech-1.1/wavs/LJ001-0068.wav|the characteristic dutch type, as represented by the excellent printer gerard leew, is very pronounced and uncompromising gothic.
+../LJSpeech-1.1/wavs/LJ001-0069.wav|this type was introduced into england by wynkyn de worde, caxton's successor,
+../LJSpeech-1.1/wavs/LJ001-0070.wav|and was used there with very little variation all through the sixteenth and seventeenth centuries, and indeed into the eighteenth.
+../LJSpeech-1.1/wavs/LJ001-0071.wav|most of caxton's own types are of an earlier character, though they also much resemble flemish or cologne letter.
+../LJSpeech-1.1/wavs/LJ001-0072.wav|after the end of the fifteenth century the degradation of printing, especially in germany and italy,
+../LJSpeech-1.1/wavs/LJ001-0073.wav|went on apace; and by the end of the sixteenth century there was no really beautiful printing done:
+../LJSpeech-1.1/wavs/LJ001-0074.wav|the best, mostly french or low country, was neat and clear, but without any distinction;
+../LJSpeech-1.1/wavs/LJ001-0075.wav|the worst, which perhaps was the english, was a terrible falling off from the work of the earlier presses;
+../LJSpeech-1.1/wavs/LJ001-0076.wav|and things got worse and worse through the whole of the seventeenth century, so that in the eighteenth printing was very miserably performed.
+../LJSpeech-1.1/wavs/LJ001-0077.wav|in england about this time, an attempt was made (notably by caslon, who started business in london as a type founder in seventeen twenty)
+../LJSpeech-1.1/wavs/LJ001-0078.wav|to improve the letter in form.
+../LJSpeech-1.1/wavs/LJ001-0079.wav|caslon's type is clear and neat, and fairly well designed;
+../LJSpeech-1.1/wavs/LJ001-0080.wav|he seems to have taken the letter of the elzevirs of the seventeenth century for his model:
+../LJSpeech-1.1/wavs/LJ001-0081.wav|type cast from his matrices is still in everyday use.
+../LJSpeech-1.1/wavs/LJ001-0082.wav|in spite, however, of his praiseworthy efforts, printing had still one last degradation to undergo.
+../LJSpeech-1.1/wavs/LJ001-0083.wav|the seventeenth century founts were bad rather negatively than positively.
+../LJSpeech-1.1/wavs/LJ001-0084.wav|but for the beauty of the earlier work they might have seemed tolerable.
+../LJSpeech-1.1/wavs/LJ001-0085.wav|it was reserved for the founders of the later eighteenth century to produce letters which are positively ugly, and which, it may be added,
+../LJSpeech-1.1/wavs/LJ001-0086.wav|are dazzling and unpleasant to the eye owing to the clumsy thickening and vulgar thinning of the lines:
+../LJSpeech-1.1/wavs/LJ001-0087.wav|for the seventeenth century letters are at least pure and simple in line. the italian, bodoni, and the frenchman, didot,
+../LJSpeech-1.1/wavs/LJ001-0088.wav|were the leaders in this luckless change, though our own baskerville, who was at work some years before them, went much on the same lines;
+../LJSpeech-1.1/wavs/LJ001-0089.wav|but his letters, though uninteresting and poor, are not nearly so gross and vulgar as those of either the italian or the frenchman.
+../LJSpeech-1.1/wavs/LJ001-0090.wav|with this change the art of printing touched bottom,
+../LJSpeech-1.1/wavs/LJ001-0091.wav|so far as fine printing is concerned, though paper did not get to its worst till about eighteen forty.
+../LJSpeech-1.1/wavs/LJ001-0092.wav|the chiswick press in eighteen forty four revived caslon's founts, printing for messrs. longman the diary of lady willoughby.
+../LJSpeech-1.1/wavs/LJ001-0093.wav|this experiment was so far successful that about eighteen fifty messrs. miller and richard of edinburgh
+../LJSpeech-1.1/wavs/LJ001-0094.wav|were induced to cut punches for a series of "old style" letters.
+../LJSpeech-1.1/wavs/LJ001-0095.wav|these and similar founts, cast by the above firm and others,
+../LJSpeech-1.1/wavs/LJ001-0096.wav|have now come into general use and are obviously a great improvement on the ordinary "modern style" in use in england, which is in fact the bodoni type
+../LJSpeech-1.1/wavs/LJ001-0097.wav|a little reduced in ugliness. the design of the letters of this modern "old style" leaves a good deal to be desired,
+../LJSpeech-1.1/wavs/LJ001-0098.wav|and the whole effect is a little too gray, owing to the thinness of the letters.
+../LJSpeech-1.1/wavs/LJ001-0099.wav|it must be remembered, however, that most modern printing is done by machinery on soft paper, and not by the hand press,
+../LJSpeech-1.1/wavs/LJ001-0100.wav|and these somewhat wiry letters are suitable for the machine process, which would not do justice to letters of more generous design.
