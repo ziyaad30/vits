@@ -18,7 +18,7 @@
 ../LJSpeech-1.1/wavs/LJ050-0062.wav|(c) who express or have expressed strong or violent anti u.s. sentiments
 ../LJSpeech-1.1/wavs/LJ045-0069.wav|katherine ford, with whom marina oswald stayed during her separation from her husband in november of nineteen sixty two,
 ../LJSpeech-1.1/wavs/LJ038-0031.wav|about six or seven people were seated on the theatre's main floor and an equal number in the balcony.
-../LJSpeech-1.1/wavs/LJ020-0099.wav|when habited for the day in all except the outer gown, collar, etc., slip on the wrapper again and run down to put the biscuits in the oven.
+../LJSpeech-1.1/wavs/LJ020-0099.wav|when habited for the day in all except the outer gown, collar, etcetera, slip on the wrapper again and run down to put the biscuits in the oven.
 ../LJSpeech-1.1/wavs/LJ010-0258.wav|as the queen was driving from buckingham palace to the chapel royal,
 ../LJSpeech-1.1/wavs/LJ011-0194.wav|friends went in pursuit and traced her to huddersfield and further north.
 ../LJSpeech-1.1/wavs/LJ014-0091.wav|this cold blooded indifference after the event was only outdone by the premeditation of this horrible murder.
@@ -379,7 +379,7 @@
 ../LJSpeech-1.1/wavs/LJ021-0194.wav|more than twenty years ago, when theodore roosevelt and woodrow wilson were attempting to correct abuses in our national life,
 ../LJSpeech-1.1/wavs/LJ020-0088.wav|it is not a wholesome practice for any woman least of all a young girl to be out of bed two hours before she eats her breakfast.
 ../LJSpeech-1.1/wavs/LJ029-0142.wav|this concrete barrier extends far enough beyond the access road to make it impracticable for vehicles to turn right from main directly to the access road.
-../LJSpeech-1.1/wavs/LJ026-0070.wav|of the substances the solids (salts, etc.) must be dissolved in water before they can be taken in.
+../LJSpeech-1.1/wavs/LJ026-0070.wav|of the substances the solids (salts, etcetera) must be dissolved in water before they can be taken in.
 ../LJSpeech-1.1/wavs/LJ002-0054.wav|those who were the oldest offenders, sentenced to transportation, and who had narrowly escaped the penalty of death.
 ../LJSpeech-1.1/wavs/LJ021-0047.wav|the country now enjoys the safety of bank savings under the new banking laws,
 ../LJSpeech-1.1/wavs/LJ012-0105.wav|the police were of opinion that these robberies were both the work of the same hand.
@@ -949,7 +949,7 @@
 ../LJSpeech-1.1/wavs/LJ021-0056.wav|under its guidance, trades and industries covering over ninety percent of all industrial employees
 ../LJSpeech-1.1/wavs/LJ041-0173.wav|thornley said that he had made his remark only in the context of "nineteen eighty four"
 ../LJSpeech-1.1/wavs/LJ032-0268.wav|this bulge was apparently caused by a hard protruding object which had stretched the blanket's fibers.
-../LJSpeech-1.1/wavs/LJ044-0126.wav|they could say the organization of which i am a member, is russian controlled, etc, end quote.
+../LJSpeech-1.1/wavs/LJ044-0126.wav|they could say the organization of which i am a member, is russian controlled, etcetera, end quote.
 ../LJSpeech-1.1/wavs/LJ015-0251.wav|the latter was ere long arrested on a charge of uttering forged cheques, convicted, and sentenced to transportation for life.
 ../LJSpeech-1.1/wavs/LJ010-0169.wav|sometimes in the strand, or the west end.
 ../LJSpeech-1.1/wavs/LJ041-0007.wav|neighbors and others who knew him at that time recall an introverted boy who read a great deal.
@@ -1543,7 +1543,7 @@
 ../LJSpeech-1.1/wavs/LJ045-0238.wav|and in the face of the overwhelming evidence against him
 ../LJSpeech-1.1/wavs/LJ038-0164.wav|the attempt on the life of major general edwin a. walker
 ../LJSpeech-1.1/wavs/LJ011-0009.wav|nothing more was heard of the affair, although the lady declared that she had never instructed fauntleroy to sell.
-../LJSpeech-1.1/wavs/LJ002-0296.wav|garnish on the cabin side was a guinea at entrance for coals, candles, brooms, etc., and a gallon of beer on discharge;
+../LJSpeech-1.1/wavs/LJ002-0296.wav|garnish on the cabin side was a guinea at entrance for coals, candles, brooms, etcetera, and a gallon of beer on discharge;
 ../LJSpeech-1.1/wavs/LJ025-0124.wav|but in the plants the act of contraction has been found to be accompanied,
 ../LJSpeech-1.1/wavs/LJ009-0291.wav|he was always known as a mild mannered man of simple tastes, much given to angling in the new river, and a devoted rabbit fancier.
 ../LJSpeech-1.1/wavs/LJ017-0035.wav|in the interests and for the due protection of the public, that the fullest and fairest inquiry should be made,
@@ -2142,7 +2142,7 @@
 ../LJSpeech-1.1/wavs/LJ002-0216.wav|the shameful malpractices of bambridge,
 ../LJSpeech-1.1/wavs/LJ019-0172.wav|prisoners who had been acquitted were not permitted to return to the prison to show their joy and receive the congratulations of their unfortunate fellows.
 ../LJSpeech-1.1/wavs/LJ019-0303.wav|of these, sixty three gave admittance during the entire year to less than twenty five prisoners;
-../LJSpeech-1.1/wavs/LJ044-0068.wav|as a result of which he was, quote, flooded with callers and invitations to debates, etc. as well as people interested in joining the f.p.c.c.
+../LJSpeech-1.1/wavs/LJ044-0068.wav|as a result of which he was, quote, flooded with callers and invitations to debates, etcetera as well as people interested in joining the f.p.c.c.
 ../LJSpeech-1.1/wavs/LJ004-0154.wav|one hundred and fifty were lodged in a prison just capable of holding fifty two.
 ../LJSpeech-1.1/wavs/LJ012-0098.wav|these were deposited in an iron chest of great strength on the second floor.
 ../LJSpeech-1.1/wavs/LJ017-0129.wav|even after the death sentence had been passed upon him he clung to the hope that the government would grant him a reprieve.
@@ -2161,7 +2161,7 @@
 ../LJSpeech-1.1/wavs/LJ050-0243.wav|the commission endorses these efforts to supplement the service's own personnel by obtaining, for short periods of time,
 ../LJSpeech-1.1/wavs/LJ010-0147.wav|it was a form of high treason not unknown in earlier reigns. in seventeen eighty six a mad woman, margaret nicholson,
 ../LJSpeech-1.1/wavs/LJ003-0126.wav|the unfortunate man was compelled at length to adopt the habits of his associates;
-../LJSpeech-1.1/wavs/LJ027-0169.wav|such as the triton, the salamander, etc., which are therefore called "caducibranchs," but the frog still passes on.
+../LJSpeech-1.1/wavs/LJ027-0169.wav|such as the triton, the salamander, etcetera, which are therefore called "caducibranchs," but the frog still passes on.
 ../LJSpeech-1.1/wavs/LJ010-0272.wav|this son, john william bean, was fully identified by dasset, and presently examined by the privy council.
 ../LJSpeech-1.1/wavs/LJ033-0191.wav|fibers in paper bag matched fibers in blanket
 ../LJSpeech-1.1/wavs/LJ028-0214.wav|for upon a barrel shaped cylinder of clay bearing a long inscription we have cyrus's account of his capture of babylon. extracts from it are as follows:
@@ -3183,7 +3183,7 @@
 ../LJSpeech-1.1/wavs/LJ007-0122.wav|even mister cope admitted that the committal of this class of prisoners to newgate was most inconvenient,
 ../LJSpeech-1.1/wavs/LJ039-0156.wav|to seven point nine seconds.
 ../LJSpeech-1.1/wavs/LJ005-0216.wav|but it was pointed out in eighteen twenty three that defective construction must always bar the way to any radical improvement in newgate.
-../LJSpeech-1.1/wavs/LJ038-0192.wav|six. you can either throw out or give my clothing, etc. away. do not keep these.
+../LJSpeech-1.1/wavs/LJ038-0192.wav|six. you can either throw out or give my clothing, etcetera away. do not keep these.
 ../LJSpeech-1.1/wavs/LJ040-0147.wav|so that he was not bothered and did not have to make the effort of communicating.
 ../LJSpeech-1.1/wavs/LJ003-0231.wav|such as messrs. birch of cornhill and messrs. leach and dollimore of ludgate hill.
 ../LJSpeech-1.1/wavs/LJ011-0157.wav|he thereupon conceived an idea of carrying her off and marrying her willy nilly at gretna green.
@@ -5263,7 +5263,7 @@
 ../LJSpeech-1.1/wavs/LJ028-0341.wav|the rest who did not see it kept at their posts, till at last they too learned that they were betrayed.
 ../LJSpeech-1.1/wavs/LJ015-0223.wav|he lent it to agar for a brief space, who promptly took an impression on wax. but the safes had a double lock;
 ../LJSpeech-1.1/wavs/LJ014-0219.wav|once more dwyer got to his feet, and managed, by drawing his staff, to keep cannon at bay until a second constable came to his aid.
-../LJSpeech-1.1/wavs/LJ038-0193.wav|however, i prefer that you hold on to my personal papers (military, civil, etc.)
+../LJSpeech-1.1/wavs/LJ038-0193.wav|however, i prefer that you hold on to my personal papers (military, civil, etcetera).
 ../LJSpeech-1.1/wavs/LJ026-0027.wav|as in a mountainous country, it is impossible to say where mountain ends and valley begins; as in the development of an animal,
 ../LJSpeech-1.1/wavs/LJ012-0164.wav|no murder has created greater sensation and horror throughout england than that of mister weare by thurtell, hunt, and probert.
 ../LJSpeech-1.1/wavs/LJ005-0286.wav|still under the borough corporations. the commons' committee gave it as their opinion that they were in a deplorable state.
@@ -5500,7 +5500,7 @@
 ../LJSpeech-1.1/wavs/LJ008-0317.wav|the fatal news was not always received in the same way.
 ../LJSpeech-1.1/wavs/LJ030-0042.wav|manned by officers of the dallas police department, this automobile preceded the main party by approximately quarter of a mile.
 ../LJSpeech-1.1/wavs/LJ046-0253.wav|it had no written specification of intelligence information collected by cia abroad which was desired by the secret service
-../LJSpeech-1.1/wavs/LJ026-0088.wav|in short, the green plant is able by cooperation with sunlight to use simple raw materials (carbon dioxide, water, oxygen, etc.)
+../LJSpeech-1.1/wavs/LJ026-0088.wav|in short, the green plant is able by cooperation with sunlight to use simple raw materials (carbon dioxide, water, oxygen, etcetera)
 ../LJSpeech-1.1/wavs/LJ030-0216.wav|between the time he originally seized the handhold and the time he mounted the car, hill recalled:
 ../LJSpeech-1.1/wavs/LJ018-0371.wav|a case reproducing many of the features of the 'flowery land' occurred twelve years later, when the crew of the 'lennie'
 ../LJSpeech-1.1/wavs/LJ018-0173.wav|griffiths afterwards admitted that he had been employed in defrauding the bank since eighteen forty six,
@@ -5791,7 +5791,7 @@
 ../LJSpeech-1.1/wavs/LJ038-0081.wav|captain fritz of the homicide and robbery bureau did most of the questioning, but he kept no notes and there were no stenographic or tape recordings.
 ../LJSpeech-1.1/wavs/LJ002-0164.wav|for the paltry sum of four pence, with costs of seven shillings, six pence.
 ../LJSpeech-1.1/wavs/LJ019-0384.wav|the home secretary in that administration,
-../LJSpeech-1.1/wavs/LJ027-0165.wav|now, the lower forms of amphibians, such as siredon, menobranchus, siren, etc.,
+../LJSpeech-1.1/wavs/LJ027-0165.wav|now, the lower forms of amphibians, such as siredon, menobranchus, siren, etcetera,
 ../LJSpeech-1.1/wavs/LJ048-0146.wav|discussions with the dallas authorities and requests made of them were entirely informal.
 ../LJSpeech-1.1/wavs/LJ016-0068.wav|and continued his march to kingston, where he slept soundly under a hedge till next morning.
 ../LJSpeech-1.1/wavs/LJ031-0019.wav|these rooms were for the emergency treatment of acutely ill or injured patients. although the first message mentioned an injury only to president kennedy,
@@ -7148,7 +7148,7 @@
 ../LJSpeech-1.1/wavs/LJ007-0104.wav|the parliamentary agents of the members whose election was impugned, were implicated in aiding and abetting the others to abscond, and a mister o'mally,
 ../LJSpeech-1.1/wavs/LJ038-0265.wav|and, further, on this basis the bullet could have been fired from the rifle on the basis of its land and groove impressions, end quote.
 ../LJSpeech-1.1/wavs/LJ040-0232.wav|few social agencies even in new york were equipped to provide the kind of intensive treatment that he needed,
-../LJSpeech-1.1/wavs/LJ008-0043.wav|round the north, west, and south sides are erected galleries for the reception of officers, attendants, etc.
+../LJSpeech-1.1/wavs/LJ008-0043.wav|round the north, west, and south sides are erected galleries for the reception of officers, attendants, etcetera
 ../LJSpeech-1.1/wavs/LJ004-0043.wav|a king's son, the duke of gloucester, was the patron; among the vice presidents were many great peers of the realm
 ../LJSpeech-1.1/wavs/LJ028-0354.wav|and he honored zopyrus greatly; year by year he presented him with all the gifts which are held in most esteem among the persians;
 ../LJSpeech-1.1/wavs/LJ047-0109.wav|when quigley returned to his office, he learned
@@ -7168,7 +7168,7 @@
 ../LJSpeech-1.1/wavs/LJ008-0102.wav|a little further off, says mister smith, was "a lath of a fellow past three score years and ten,
 ../LJSpeech-1.1/wavs/LJ011-0227.wav|after their release from lancaster and newgate respectively, both wakefields went abroad.
 ../LJSpeech-1.1/wavs/LJ018-0024.wav|mister death, who had given another in exchange for it to a man supposed to be a foreigner.
-../LJSpeech-1.1/wavs/LJ026-0077.wav|to the chlorophyll bodies or chromatophores, for plants which, like fungi, etc., are devoid of chlorophyll, are unable thus to acquire energy.
+../LJSpeech-1.1/wavs/LJ026-0077.wav|to the chlorophyll bodies or chromatophores, for plants which, like fungi, etcetera, are devoid of chlorophyll, are unable thus to acquire energy.
 ../LJSpeech-1.1/wavs/LJ012-0043.wav|he lived in rosemary lane, and sometimes he had as much as twenty thousand pounds worth of goods secreted on the premises.
 ../LJSpeech-1.1/wavs/LJ008-0275.wav|but there was a further appeal then, as now, to the king himself, or practically to the home secretary.
 ../LJSpeech-1.1/wavs/LJ006-0057.wav|not only were the wards thus needlessly crammed, and for no reason but the niggardliness of the corporation which refused a proper supply of bedding
@@ -7775,7 +7775,7 @@
 ../LJSpeech-1.1/wavs/LJ022-0001.wav|the fireside chats of franklin delano roosevelt, by franklin d roosevelt, section seven.
 ../LJSpeech-1.1/wavs/LJ019-0392.wav|in the administration of prisons.
 ../LJSpeech-1.1/wavs/LJ009-0174.wav|in eighteen thirty seven the death penalty was practically limited to murder or attempts to murder,
-../LJSpeech-1.1/wavs/LJ001-0023.wav|and was in fact the kind of letter used in the many splendid missals, psalters, etc., produced by printing in the fifteenth century.
+../LJSpeech-1.1/wavs/LJ001-0023.wav|and was in fact the kind of letter used in the many splendid missals, psalters, etcetera, produced by printing in the fifteenth century.
 ../LJSpeech-1.1/wavs/LJ008-0098.wav|one was the "yeoman of the halter," a newgate official, the executioner's assistant, whom mister j. t. smith, who was present at the execution,
 ../LJSpeech-1.1/wavs/LJ006-0236.wav|"a serious accident: one of the prisoners had a hot poker run into his eye."
 ../LJSpeech-1.1/wavs/LJ033-0142.wav|because the cartons stacked around the southeast corner would shield him.
@@ -8340,7 +8340,7 @@
 ../LJSpeech-1.1/wavs/LJ046-0216.wav|members of the immediate family of the president, the president elect or the vice president
 ../LJSpeech-1.1/wavs/LJ036-0006.wav|at about one:sixteen p.m., a dallas police officer, j. d. tippit, was shot less than one mile from oswald's roominghouse.
 ../LJSpeech-1.1/wavs/LJ028-0216.wav|commanded him (cyrus) to go forth to his city babylon, and he went by his side as a friend and companion.
-../LJSpeech-1.1/wavs/LJ047-0014.wav|the office of naval intelligence, the fbi and the c i a(2) the information known to the fbi is summarized below.
+../LJSpeech-1.1/wavs/LJ047-0014.wav|the office of naval intelligence, the fbi and the cia. the information known to the fbi is summarized below.
 ../LJSpeech-1.1/wavs/LJ044-0048.wav|which occurred eight days after oswald wrote the above letter to v. t. lee.
 ../LJSpeech-1.1/wavs/LJ005-0121.wav|by degrees, however,
 ../LJSpeech-1.1/wavs/LJ009-0003.wav|even so severe a critic as mister wakefield states that "a stranger to the scene
@@ -8759,7 +8759,7 @@
 ../LJSpeech-1.1/wavs/LJ007-0208.wav|in the inspectors' fourth report, dated eighteen thirty nine,
 ../LJSpeech-1.1/wavs/LJ016-0262.wav|it was a callous, careless crowd of coarse minded, semi brutalized folk, who came to enjoy themselves.
 ../LJSpeech-1.1/wavs/LJ046-0171.wav|this might involve a personal interview or interviews with members of the person's household. wherever possible,
-../LJSpeech-1.1/wavs/LJ044-0039.wav|they said something about remodeling, etc. i'm sure you understand, end quote.
+../LJSpeech-1.1/wavs/LJ044-0039.wav|they said something about remodeling, etcetera i'm sure you understand, end quote.
 ../LJSpeech-1.1/wavs/LJ039-0037.wav|vice president lyndon b. johnson was in dallas for a visit which had been publicized in the dallas newspapers
 ../LJSpeech-1.1/wavs/LJ004-0022.wav|the executive, although harassed by internal commotion and foreign war, was not entirely callous to the crying need for amelioration in jails.
 ../LJSpeech-1.1/wavs/LJ028-0029.wav|at last you see before you a mound rising like a mountain from the level plain.
@@ -9989,7 +9989,7 @@
 ../LJSpeech-1.1/wavs/LJ025-0062.wav|under particular circumstances, the contents of the cells of certain water weeds were set free and moved about with considerable velocity
 ../LJSpeech-1.1/wavs/LJ029-0211.wav|and on the morning of the president's arrival, there appeared in the morning news a full, black bordered advertisement headed:
 ../LJSpeech-1.1/wavs/LJ026-0166.wav|back to starch usable as food and the comparison of the green plant and the animal would be complete.
-../LJSpeech-1.1/wavs/LJ026-0053.wav|or animal matter in the form of various organic compounds, of which the most important are proteids (protoplasm, albumen, etc.),
+../LJSpeech-1.1/wavs/LJ026-0053.wav|or animal matter in the form of various organic compounds, of which the most important are proteids (protoplasm, albumen, etcetera),
 ../LJSpeech-1.1/wavs/LJ015-0042.wav|then it was that instead of merely pledging securities, the bank sold them outright, and thus passed the rubicon of fraud.
 ../LJSpeech-1.1/wavs/LJ026-0114.wav|and even of proteids only a limited amount, seventy five to one hundred grams a day for a man, is built into new protoplasm.
 ../LJSpeech-1.1/wavs/LJ034-0218.wav|the commission has determined that the employee was in fact billy lovelady, who identified himself in the picture.
