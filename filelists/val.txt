@@ -987,7 +987,7 @@
 ../LJSpeech-1.1/wavs/LJ023-0059.wav|in its preamble, the constitution states that it was intended to form a more perfect union and promote the general welfare;
 ../LJSpeech-1.1/wavs/LJ016-0100.wav|at that time rope mats were still used as beds.
 ../LJSpeech-1.1/wavs/LJ002-0149.wav|the latter indeed hung like millstones round the neck of the unhappy insolvent wretches who found themselves in limbo.
-../LJSpeech-1.1/wavs/LJ040-0142.wav|was disturbed about disrobing in front of them, taking showers with them etc., end quote.
+../LJSpeech-1.1/wavs/LJ040-0142.wav|was disturbed about disrobing in front of them, taking showers with them etcetera, end quote.
 ../LJSpeech-1.1/wavs/LJ018-0208.wav|were a low lot, the lowest among criminals except, perhaps, the 'smashers,' or those who passed the counterfeit money.
 ../LJSpeech-1.1/wavs/LJ028-0191.wav|the old enemies of babylon rejoiced.
 ../LJSpeech-1.1/wavs/LJ041-0097.wav|according to powers, oswald said, quote,
@@ -1817,7 +1817,7 @@
 ../LJSpeech-1.1/wavs/LJ004-0188.wav|and which even fulfilled many of the exacting requirements of modern days.
 ../LJSpeech-1.1/wavs/LJ040-0004.wav|there is no evidence that he had accomplices or that he was involved in any conspiracy directed to the assassination of the president.
 ../LJSpeech-1.1/wavs/LJ032-0121.wav|he applied fingerprint powder to the side of the metal housing near the trigger, and noticed traces of two prints.
-../LJSpeech-1.1/wavs/LJ026-0133.wav|combined with nitrogen and sulphur (probably also with salts, water, etc.) to form proteid matter.
+../LJSpeech-1.1/wavs/LJ026-0133.wav|combined with nitrogen and sulphur (probably also with salts, water, etcetera) to form proteid matter.
 ../LJSpeech-1.1/wavs/LJ005-0281.wav|that the greatest mischief followed from the intercourse which was still permitted in so many prisons; to use its words,
 ../LJSpeech-1.1/wavs/LJ007-0225.wav|i find it ordered "that the ordinary of newgate be restricted from making any communications to the home office
 ../LJSpeech-1.1/wavs/LJ037-0246.wav|the blue jacket was found in the texas school book depository and was identified by marina oswald as her husband's.
