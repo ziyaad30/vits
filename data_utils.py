@@ -84,7 +84,11 @@ class TextAudioLoader(torch.utils.data.Dataset):
         return spec, audio_norm
 
     def get_text(self, text):
-        text_norm = self.tokenizer.encode(text)
+        try:
+            text_norm = self.tokenizer.encode(text)
+        except:
+            print(text)
+            raise Exception(text)
         if self.add_blank:
             text_norm = commons.intersperse(text_norm, self.tokenizer.vocab_size())
         text_norm = torch.LongTensor(text_norm)
