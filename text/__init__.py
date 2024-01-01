@@ -38,11 +38,14 @@ def text_to_sequence(text):
         if word == ' ':
             sequence += _symbols_to_sequence(' ')
         elif word == '?' or word == '.' or word == '!' or word == ';' or word == ',' or word == ':':
-                sequence = sequence[:-1]
-                sequence += _arpabet_to_sequence(word)
-        else:
+            sequence = sequence[:-1]
             sequence += _arpabet_to_sequence(word)
-
+        else:
+            try:
+                sequence += _arpabet_to_sequence(word)
+            except:
+                print(word)
+                raise Exception(word)
     return sequence
 
 
@@ -106,7 +109,6 @@ class ArpaTokenizer:
 
     def vocab_size(self):
         return len(symbols)
-
 
 
 if __name__ == "__main__":
