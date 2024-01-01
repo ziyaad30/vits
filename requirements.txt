@@ -6,3 +6,5 @@ phonemizer
 scipy
 tensorboard
 Unidecode
+g2p_en
+monotonic-align
