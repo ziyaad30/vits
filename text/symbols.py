@@ -1,16 +1,82 @@
-""" from https://github.com/keithito/tacotron """
+_pad = '_'
+_punctuation = '!\'(),.:;? '
+_special = '-'
 
-'''
-Defines the set of symbols used in text input to the model.
-'''
-_pad        = '_'
-_punctuation = ';:,.!?¡¿—…"«»“” '
-_letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
-_letters_ipa = "ɑɐɒæɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄɡɠɢʛɦɧħɥʜɨɪʝɭɬɫɮʟɱɯɰŋɳɲɴøɵɸθœɶʘɹɺɾɻʀʁɽʂʃʈʧʉʊʋⱱʌɣɤʍχʎʏʑʐʒʔʡʕʢǀǁǂǃˈˌːˑʼʴʰʱʲʷˠˤ˞↓↑→↗↘'̩'ᵻ"
+valid_symbols = [
+    "AA",
+    "AA0",
+    "AA1",
+    "AA2",
+    "AE",
+    "AE0",
+    "AE1",
+    "AE2",
+    "AH",
+    "AH0",
+    "AH1",
+    "AH2",
+    "AO",
+    "AO0",
+    "AO1",
+    "AO2",
+    "AW",
+    "AW0",
+    "AW1",
+    "AW2",
+    "AY",
+    "AY0",
+    "AY1",
+    "AY2",
+    "CH",
+    "DH",
+    "EH",
+    "EH0",
+    "EH1",
+    "EH2",
+    "ER",
+    "ER0",
+    "ER1",
+    "ER2",
+    "EY",
+    "EY0",
+    "EY1",
+    "EY2",
+    "HH",
+    "IH",
+    "IH0",
+    "IH1",
+    "IH2",
+    "IY",
+    "IY0",
+    "IY1",
+    "IY2",
+    "JH",
+    "NG",
+    "OW",
+    "OW0",
+    "OW1",
+    "OW2",
+    "OY",
+    "OY0",
+    "OY1",
+    "OY2",
+    "SH",
+    "TH",
+    "UH",
+    "UH0",
+    "UH1",
+    "UH2",
+    "UW",
+    "UW0",
+    "UW1",
+    "UW2",
+    "ZH",
+]
 
+_valid_symbol_set = set(valid_symbols)
+_arpabet = [s for s in valid_symbols]
+
+_letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 # Export all symbols:
-symbols = [_pad] + list(_punctuation) + list(_letters) + list(_letters_ipa)
-
-# Special symbol ids
-SPACE_ID = symbols.index(" ")
+symbols = [_pad] + list(_special) + list(_punctuation) + list(_letters) + _arpabet
