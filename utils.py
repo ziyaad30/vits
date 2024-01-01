@@ -165,7 +165,7 @@ def load_filepaths_and_text(filename, split="|"):
 
 def get_hparams(init=True):
     parser = argparse.ArgumentParser()
-    parser.add_argument('-c', '--config', type=str, default="./configs/ljs_base.json",
+    parser.add_argument('-c', '--config', type=str, default="./configs/ljs_nosdp.json",
                         help='JSON file for configuration')
     parser.add_argument('-m', '--model', type=str, default="ljs_arpa",
                         help='Model name')
