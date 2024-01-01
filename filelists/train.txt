@@ -5263,7 +5263,7 @@
 ../LJSpeech-1.1/wavs/LJ028-0341.wav|the rest who did not see it kept at their posts, till at last they too learned that they were betrayed.
 ../LJSpeech-1.1/wavs/LJ015-0223.wav|he lent it to agar for a brief space, who promptly took an impression on wax. but the safes had a double lock;
 ../LJSpeech-1.1/wavs/LJ014-0219.wav|once more dwyer got to his feet, and managed, by drawing his staff, to keep cannon at bay until a second constable came to his aid.
-../LJSpeech-1.1/wavs/LJ038-0193.wav|however, i prefer that you hold on to my personal papers (military, civil, etc.).
+../LJSpeech-1.1/wavs/LJ038-0193.wav|however, i prefer that you hold on to my personal papers (military, civil, etc.)
 ../LJSpeech-1.1/wavs/LJ026-0027.wav|as in a mountainous country, it is impossible to say where mountain ends and valley begins; as in the development of an animal,
 ../LJSpeech-1.1/wavs/LJ012-0164.wav|no murder has created greater sensation and horror throughout england than that of mister weare by thurtell, hunt, and probert.
 ../LJSpeech-1.1/wavs/LJ005-0286.wav|still under the borough corporations. the commons' committee gave it as their opinion that they were in a deplorable state.
