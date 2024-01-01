@@ -214,11 +214,12 @@ def train_and_evaluate(rank, epoch, hps, nets, optims, schedulers, scaler, loade
                 'Step: {}, '
                 'Loss disc: {:.5f}, '
                 'Loss gen: {:.5f}, '
+                'Loss fm: {:.5f}, '
                 'Loss mel: {:.5f}, '
                 'Loss dur: {:.5f}, '
                 'Loss kl: {:.5f}, '
-                'lr: {:.5f}'.
-                format(global_step, losses[0], losses[1], losses[2], losses[3], losses[4], lr))
+                'lr: {:.5f}'
+                .format(global_step, losses[0], losses[1], losses[2], losses[3], losses[4], losses[5], lr))
 
             if global_step % hps.train.log_interval == 0:
                 scalar_dict = {"loss/g/total": loss_gen_all, "loss/d/total": loss_disc_all, "learning_rate": lr,
