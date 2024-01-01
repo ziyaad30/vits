@@ -2,7 +2,6 @@ Cython
 librosa==0.9.1
 matplotlib
 numpy
-phonemizer
 scipy
 tensorboard
 Unidecode
